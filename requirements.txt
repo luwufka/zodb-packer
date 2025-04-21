@@ -1,0 +1,3 @@
+ZODB
+transaction
+colorama
